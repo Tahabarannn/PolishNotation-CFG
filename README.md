@@ -1,2 +1,1 @@
-# PolishNotation-CFG
-Polish Notation homework I prepared for automata theory course
+Write a program that returns the result of an arithmetic operation in Polish notation. The input of the program will be a text like "* + * + 1 2 + 3 4 5 6". A SPACE will be used as a separator in the text. The output of the program is the result of four operations. The output of the above example is 156. You can find the notation on page 249.
